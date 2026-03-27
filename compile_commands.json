@@ -1,0 +1,7 @@
+[
+  {
+    "directory": ".",
+    "command": "gcc -o ./bin/main ./src/main.c -lGL -lm -ldl -lX11 -lpthread -lXrandr -lXext -lraylib",
+    "file": "./src/main.c"
+  }
+]
