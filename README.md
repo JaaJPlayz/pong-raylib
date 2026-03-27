@@ -26,7 +26,7 @@ A classic Pong game implemented in C using the Raylib game development library.
 ```bash
 # Clone or download the project
 # Navigate to project directory
-cd simple-c-code
+cd pong-raylib
 
 # Run the automatic setup script
 ./setup.sh
@@ -118,7 +118,7 @@ make clean
 ## Project Structure
 
 ```
-simple-c-code/
+pong-raylib/
 ├── src/
 │   └── main.c          # Main game source code
 ├── lib/
